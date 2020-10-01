@@ -43,6 +43,7 @@ There are a number of limitations that restricted this keymap from become a bett
 - I would love to enable [Tap-Toggle](https://docs.qmk.fm/#/feature_layers?id=layers) for the Lower/Raise layer keys to for example make using the keypad layout on *Adjust* more comfortable. However, due to [the way QMK handles Tri Layers](https://docs.qmk.fm/#/ref_functions?id=olkb-tri-layers) this is currently impossible (at least to my knowledge). Closest thing I came across in my research is [enabling LT in a Tri Layer setup](https://www.reddit.com/r/olkb/comments/4x3dei/hack_too_ugly_to_live/)
 - There are way too many blank keys going to waste on both *Lower* and *Raise*. While this is fine for now, I will probably start adding macro/shortcut keys as I perform more of my daily workflow with this keyboard.
 - Same problem as above except this time its too many similar keys on both *Lower* and *Raise*. However this is probably for the best for a dummy like myself.
+- I haven't assign any keymaps for two of the keys in the base layer, since I haven't figure out any uses for them yet.
 
 ## Compiling/Flashing
 1. Follow the [official QMK setup](https://docs.qmk.fm/#/newbs_getting_started)
